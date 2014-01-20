@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rcdTips" value="name:idtip;datatype:int,name:tipus;datatype:string" />
-	<infoitem key="UD_redTip" value="name:idtip;datatype:int,name:tipus;datatype:string" />
-	<infoitem key="UD_rcdDats" value="name:adreca;datatype:string,name:tipus;datatype:int,name:observacions;datatype:blob" />
-</info>

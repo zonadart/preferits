@@ -33,7 +33,7 @@
   <tbody><tr>
     <td width="560" align="center" valign="top">
 	  <div align="center">
-	   <img src="imatges/body_main_header.gif" width="766" height="25" /><br>
+	   <img src="imatges/body_main_header.gif" /><br>
 	   <table width="100%" border="0" cellpadding="4" cellspacing="0" style="border: 1px solid rgb(23, 23, 222);">
 	   <tr>
 	 	<td><p align="center" class="italicsbold">
@@ -90,7 +90,7 @@
 </tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" width="70%">
   <tbody><tr>
-      <td><div align="center"><img src="imatges/body_main_footer.gif" width="766" height="25" /></div></td>
+      <td><div align="center"><img src="imatges/body_main_footer.gif" /></div></td>
   </tr>
 </tbody></table>
 </div>
