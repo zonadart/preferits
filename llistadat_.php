@@ -56,10 +56,10 @@ $queryString_rcdDats = sprintf("&totalRows_rcdDats=%d%s", $totalRows_rcdDats, $q
 </head>
 
 <body>
-<center>
+<div align="center">
 <table id="main" border="0" cellpadding="0" cellspacing="0" width="70%">
     <tbody><tr>
-    <td><a href="index.html" target="_self"><img src="imatges/capsal02.png" width="766" height="104" border="0" /></a></td>
+    <td><a href="index.html" target="_self"><img src="imatges/capsal02.png" border="0" /></a></td>
   </tr>
   <tr>
   	<td>&nbsp;</td>
@@ -72,9 +72,9 @@ $queryString_rcdDats = sprintf("&totalRows_rcdDats=%d%s", $totalRows_rcdDats, $q
 <table border="0" cellpadding="0" cellspacing="0" width="70%">
   <tbody><tr>
     <td width="560" align="center" valign="top">
-	  <center>
+	  <div align="center">
 	   <img src="imatges/body_main_header.gif" width="766" height="25" /><br>
-	   <table width="766" border="0" cellpadding="4" cellspacing="0" style="border: 1px solid rgb(23, 23, 222);">
+	   <table width="100%" border="0" cellpadding="4" cellspacing="0" style="border: 1px solid rgb(23, 23, 222);">
 	   <tr>
 	 	<td><table width="100%" border="1" align="center" cellpadding="2" cellspacing="2" bordercolor="#0000FF" bgcolor="#0066FF">
           <tr>
@@ -104,7 +104,7 @@ $queryString_rcdDats = sprintf("&totalRows_rcdDats=%d%s", $totalRows_rcdDats, $q
          </table>
 	     <br>
 	     </div>
-	  </center>
+	  </div>
 	 </td>
   </tr>
 </tbody></table>
@@ -113,7 +113,7 @@ $queryString_rcdDats = sprintf("&totalRows_rcdDats=%d%s", $totalRows_rcdDats, $q
       <td><div align="center"><img src="imatges/body_main_footer.gif" width="766" height="25" /></div></td>
   </tr>
 </tbody></table>
-</center>
+</div>
 </body>
 </html>
 <?php

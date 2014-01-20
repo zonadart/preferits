@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
 	<title>Zona d'Art - Preferits</title>
     <style type="text/css">
 <!--
@@ -15,10 +15,10 @@
 </head>
 
 <body>
-<center>
+<div align="center">
 <table id="main" border="0" cellpadding="0" cellspacing="0" width="70%">
     <tbody><tr>
-    <td><a href="index.html" target="_self"><img src="imatges/capsal02.png" width="766" height="104" border="0" /></a></td>
+    <td><a href="index.html" target="_self"><img src="imatges/capsal02.png" border="0" /></a></td>
   </tr>
   <tr>
   	<td>&nbsp;</td>
@@ -32,15 +32,15 @@
 <table border="0" cellpadding="0" cellspacing="0" width="70%">
   <tbody><tr>
     <td width="560" align="center" valign="top">
-	  <center>
+	  <div align="center">
 	   <img src="imatges/body_main_header.gif" width="766" height="25" /><br>
-	   <table width="766" border="0" cellpadding="4" cellspacing="0" style="border: 1px solid rgb(23, 23, 222);">
+	   <table width="100%" border="0" cellpadding="4" cellspacing="0" style="border: 1px solid rgb(23, 23, 222);">
 	   <tr>
 	 	<td><p class="italicsbold">&nbsp;</p>
 			<h1 align="center">ESBORRAT O.K. </h1></td>
 		</tr>
 		</table>
-	   <br></center>
+	   <br></div>
 	 </td>
   </tr>
 </tbody></table>
@@ -49,6 +49,6 @@
       <td><div align="center"><img src="imatges/body_main_footer.gif" width="766" height="25" /></div></td>
   </tr>
 </tbody></table>
-</center>
+</div>
 </body>
 </html>
