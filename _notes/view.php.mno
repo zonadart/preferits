@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_regTotal" value="name:iddat;datatype:int,name:adreca;datatype:string,name:tipus;datatype:int,name:observacions;datatype:blob,name:login;datatype:string,name:password;datatype:blob" />
+</info>

@@ -1,0 +1,64 @@
+BODY, TD {
+	background: #000000;
+	color : green;
+	font-family : "Bookman Old Style", "Times New Roman", serif;
+	font-size: 14px;
+	text-align: left;
+}
+
+H2 {
+	font-size: 14pt;
+}
+
+H3 {
+	font-size: 15pt;
+	font-style: italic;
+	font-family: sans-serif;
+}
+
+H4 {
+    font-family: sans-serif;
+    font-size: small;
+}
+
+
+
+a    {
+	 display: inline-block;
+	 padding: 2px;
+	 outline: 0;
+#	 color: #3a599d;
+    color: blue;
+	 -webkit-transition-duration: 0.25s;
+	 -moz-transition-duration: 0.25s;
+	 -o-transition-duration: 0.25s;
+	 transition-duration: 0.25s;
+	 -webkit-transition-property: -webkit-transform;
+	 -moz-transition-property: -moz-transform;
+	 -o-transition-property: -o-transform;
+	 transition-property: transform;
+	 -webkit-transform: scale(1) rotate(0);
+	 -moz-transform: scale(1) rotate(0);
+	 -o-transform: scale(1) rotate(0);
+	 transform: scale(1) rotate(0);
+	}
+	a:hover {
+	 background: #F58324;
+	 text-decoration: none;
+	 color: #ffffff;
+	 -webkit-border-radius: 4px;
+	 -moz-border-radius: 4px;
+	 -o-border-radius: 4px;
+	 border-radius: 4px;
+	 -webkit-transform: scale(1.05) rotate(-1deg);
+	 -moz-transform: scale(1.05) rotate(-1deg);
+	 -o-transform: scale(1.05) rotate(-1deg);
+	 transform: scale(1.05) rotate(-1deg);
+	}
+
+
+
+HR {
+	height: 1pt;
+}
+
